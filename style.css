@@ -1,0 +1,11 @@
+img{
+    float: left   ;
+}
+form{
+    font-family:  Haettenschweiler
+}
+footer{
+    float: left;
+    clear:both;
+    background-color: aqua;
+}
