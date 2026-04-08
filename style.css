@@ -9,3 +9,13 @@ footer{
     clear:both;
     background-color: aqua;
 }
+section div form{
+    clear:right;
+    border: 1px solid black;
+    padding: 10px;
+    float: left;
+}
+h4{
+    font-family:  'Times New Roman', Times, serif;
+    font-weight: normal;
+}
